@@ -1,0 +1,22 @@
+{
+  "1": {
+    "egitim_dogruluk": 0.815,
+    "test_dogruluk": 0.7942,
+    "yaprak": 2
+  },
+  "3": {
+    "egitim_dogruluk": 0.9,
+    "test_dogruluk": 0.8686,
+    "yaprak": 7
+  },
+  "6": {
+    "egitim_dogruluk": 0.945,
+    "test_dogruluk": 0.838,
+    "yaprak": 21
+  },
+  "None": {
+    "egitim_dogruluk": 1.0,
+    "test_dogruluk": 0.7978,
+    "yaprak": 44
+  }
+}
